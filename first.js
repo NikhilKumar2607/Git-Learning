@@ -1,5 +1,5 @@
 const name = "nikhil"
-const age = 30
+const age = 90
 
 
 
@@ -28,3 +28,16 @@ console.log("money hon")
 console.log("bug final commit")
 
 console.log("mai hoon")
+
+function showage() {
+    console.log(age)
+}
+
+showage();
+
+
+function show() {
+
+}
+
+show();
