@@ -12,3 +12,10 @@ function update() {
 update();
 console.log("hello")
 
+console.log("hello")
+function update1() {
+    balance += 20;
+}
+
+
+update1();
