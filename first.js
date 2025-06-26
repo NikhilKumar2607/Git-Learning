@@ -24,3 +24,5 @@ console.log(balance);
 
 
 console.log("money hon")
+
+console.log("bug final commit")
