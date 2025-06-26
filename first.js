@@ -21,3 +21,6 @@ function update1() {
 update1();
 
 console.log(balance);
+
+
+console.log("money hon")
