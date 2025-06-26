@@ -28,3 +28,10 @@ console.log("money hon")
 console.log("bug final commit")
 
 console.log("mai hoon")
+
+function showage(val) {
+    console.log(val);
+
+}
+
+showage(10);
