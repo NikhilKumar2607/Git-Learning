@@ -22,4 +22,9 @@ update1();
 
 console.log(balance);
 
+
+console.log("money hon")
+
+console.log("bug final commit")
+
 console.log("mai hoon")
